@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\bin\Debug\Gestion_Employe.exe.config
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\bin\Debug\Gestion_Employe.exe
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\bin\Debug\Gestion_Employe.pdb
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.Employes.resources
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.Form1.resources
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.Properties.Resources.resources
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.Services.resources
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.exe
+C:\Users\HP\source\repos\Gestion_Employe\Gestion_Employe\obj\Debug\Gestion_Employe.pdb
